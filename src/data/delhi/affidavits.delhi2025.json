@@ -1,0 +1,55 @@
+{
+  "meta": {
+    "state": "Delhi",
+    "election_slug": "Delhi2025",
+    "year": 2025,
+    "house": "assembly",
+    "candidate_count": 3,
+    "scraped_at": null,
+    "note": "Sample file. The real dataset is not distributed; regenerate it with the pipeline (see README)."
+  },
+  "candidates": [
+    {
+      "name": "Demo Candidate A",
+      "constituency": "New Delhi",
+      "party": "Independent",
+      "age": 52,
+      "education": "Graduate",
+      "profession": "Business",
+      "criminal_cases": 1,
+      "serious_criminal_cases": 0,
+      "total_assets": 125000000,
+      "movable_assets": 40000000,
+      "immovable_assets": 85000000,
+      "is_winner": true
+    },
+    {
+      "name": "Demo Candidate B",
+      "constituency": "New Delhi",
+      "party": "Independent",
+      "age": 47,
+      "education": "Post Graduate",
+      "profession": "Doctor",
+      "criminal_cases": 0,
+      "serious_criminal_cases": 0,
+      "total_assets": 28000000,
+      "movable_assets": 8000000,
+      "immovable_assets": 20000000,
+      "is_winner": false
+    },
+    {
+      "name": "Demo Candidate C",
+      "constituency": "New Delhi",
+      "party": "Independent",
+      "age": 61,
+      "education": "Doctorate",
+      "profession": "Professor",
+      "criminal_cases": 0,
+      "serious_criminal_cases": 0,
+      "total_assets": 11000000,
+      "movable_assets": 3000000,
+      "immovable_assets": 8000000,
+      "is_winner": false
+    }
+  ]
+}

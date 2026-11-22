@@ -1,0 +1,141 @@
+[
+    {
+        "code": "16-AC-BYE-4-28",
+        "name": "Election-June-2022",
+        "season": "16",
+        "elections": [
+            "16-AC-BYE-4-28",
+            "16-PC-BYE-2-29"
+        ]
+    },
+    {
+        "code": "15-AC-BYE-4-27",
+        "name": "Election-May-June-2022",
+        "season": "15",
+        "elections": [
+            "15-AC-BYE-4-27"
+        ]
+    },
+    {
+        "code": "14-AC-BYE-4-25",
+        "name": "Election-March-Apr-2022",
+        "season": "14",
+        "elections": [
+            "14-AC-BYE-4-25"
+        ]
+    },
+    {
+        "code": "13-AC-GENERAL-3-23",
+        "name": "Election-Jan-March-2022",
+        "season": "13",
+        "elections": [
+            "13-AC-GENERAL-3-23",
+            "13-AC-BYE-4-24"
+        ]
+    },
+    {
+        "code": "12-AC-BYE-4-21",
+        "name": "Election-Oct-Nov-2021",
+        "season": "12",
+        "elections": [
+            "12-AC-BYE-4-21",
+            "12-PC-BYE-2-22"
+        ]
+    },
+    {
+        "code": "11-AC-BYE-4-19",
+        "name": "Election-Sep-Oct-2021",
+        "season": "11",
+        "elections": [
+            "11-AC-BYE-4-19",
+            "11-AC-GENERAL-3-20"
+        ]
+    },
+    {
+        "code": "10-AC-GENERAL-3-16",
+        "name": "Election-Feb-May-2021",
+        "season": "10",
+        "elections": [
+            "10-AC-BYE-4-18",
+            "10-AC-GENERAL-3-16",
+            "10-PC-BYE-2-17"
+        ]
+    },
+    {
+        "code": "9-AC-GENERAL-3-13",
+        "name": "Election-September-2020",
+        "season": "9",
+        "elections": [
+            "9-AC-BYE-4-14",
+            "9-AC-GENERAL-3-13"
+        ]
+    },
+    {
+        "code": "8-AC-GENERAL-3-12",
+        "name": "GEN-Election-Feb-2020-Delhi",
+        "season": "8",
+        "elections": [
+            "8-AC-GENERAL-3-12"
+        ]
+    },
+    {
+        "code": "7-AC-BYE-4-11",
+        "name": "BYE-Election-DEC-2019-Karnataka",
+        "season": "7",
+        "elections": [
+            "7-AC-BYE-4-11"
+        ]
+    },
+    {
+        "code": "6-AC-GENERAL-3-10",
+        "name": "Election-Dec-2019_GEN",
+        "season": "6",
+        "elections": [
+            "6-AC-GENERAL-3-10"
+        ]
+    },
+    {
+        "code": "5-AC-BYE-4-9",
+        "name": "Election-Nov-2019_BYE",
+        "season": "5",
+        "elections": [
+            "5-AC-BYE-4-9"
+        ]
+    },
+    {
+        "code": "4-PC-BYE-2-6",
+        "name": "Election-October-2019",
+        "season": "4",
+        "elections": [
+            "4-AC-BYE-4-7",
+            "4-AC-GENERAL-3-8",
+            "4-PC-BYE-2-6"
+        ]
+    },
+    {
+        "code": "3-AC-BYE-4-5",
+        "name": "Election-September-2019",
+        "season": "3",
+        "elections": [
+            "3-AC-BYE-4-5"
+        ]
+    },
+    {
+        "code": "2-PC-GENERAL-1-4",
+        "name": "Election-August-2019",
+        "season": "2",
+        "elections": [
+            "2-PC-GENERAL-1-4"
+        ]
+    },
+    {
+        "code": "1-PC-GENERAL-1-1",
+        "name": "Election-May-2019",
+        "season": "1",
+        "elections": [
+            "1-PC-GENERAL-1-1",
+            "1-AC-GENERAL-3-2",
+            "1-AC-BYE-4-3"
+        ]
+    }
+]

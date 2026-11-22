@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "state": "Maharashtra",
+    "election_slug": "Maharashtra2019",
+    "year": 2019,
+    "house": "assembly",
+    "candidate_count": 0,
+    "scraped_at": null,
+    "note": "Sample file. The real dataset is not distributed; regenerate it with the pipeline (see README)."
+  },
+  "candidates": []
+}

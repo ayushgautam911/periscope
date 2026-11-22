@@ -1,0 +1,5 @@
+# Only the web app deploys — the scraping pipeline is local tooling.
+pipeline
+session-log.md
+DATA_SOURCES.md
+CLAUDE.md

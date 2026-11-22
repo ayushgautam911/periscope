@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "state": "Meghalaya",
+    "election_slug": "Meghalaya2023",
+    "year": 2023,
+    "house": "assembly",
+    "candidate_count": 0,
+    "scraped_at": null,
+    "note": "Sample file. The real dataset is not distributed; regenerate it with the pipeline (see README)."
+  },
+  "candidates": []
+}

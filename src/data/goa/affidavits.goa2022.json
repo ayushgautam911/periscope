@@ -1,0 +1,10 @@
+{
+  "meta": {
+    "election": "goa2022",
+    "year": 2022,
+    "candidate_count": 0,
+    "scraped_at": null,
+    "note": "Sample file. The real dataset is not distributed; regenerate it with the pipeline (see README)."
+  },
+  "candidates": []
+}

@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "state": "Odisha",
+    "election_slug": "Odisha2024",
+    "year": 2024,
+    "house": "assembly",
+    "candidate_count": 0,
+    "scraped_at": null,
+    "note": "Sample file. The real dataset is not distributed; regenerate it with the pipeline (see README)."
+  },
+  "candidates": []
+}

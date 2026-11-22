@@ -1,0 +1,33 @@
+@import 'tailwindcss';
+
+/*
+ * Periscope global styles.
+ * Tailwind v4 is configured via the single @import above. The custom variant
+ * below switches `dark:` utilities from the default OS-preference behaviour to
+ * a class on <html>, so the in-app Light/Dark/System toggle can drive them.
+ */
+@custom-variant dark (&:where(.dark, .dark *));
+
+:root {
+  color-scheme: light;
+}
+html.dark {
+  color-scheme: dark;
+}
+
+html,
+body,
+#root {
+  min-height: 100%;
+}
+
+/* Base page surface for each theme; components layer Tailwind dark: on top. */
+body {
+  margin: 0;
+  background-color: #ffffff;
+  color: #111827; /* gray-900 */
+}
+html.dark body {
+  background-color: #0b1120; /* slate-950-ish */
+  color: #e5e7eb; /* gray-200 */
+}

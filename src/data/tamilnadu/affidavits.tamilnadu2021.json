@@ -1,0 +1,12 @@
+{
+  "meta": {
+    "state": "Tamil Nadu",
+    "election_slug": "TamilNadu2021",
+    "year": 2021,
+    "house": "assembly",
+    "candidate_count": 0,
+    "scraped_at": null,
+    "note": "Sample file. The real dataset is not distributed; regenerate it with the pipeline (see README)."
+  },
+  "candidates": []
+}
